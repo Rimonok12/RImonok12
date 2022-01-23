@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**Rimonok12/RImonok12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Datastructures and Algorithms
+- 🌱 I’m currently learning React.js and Node.js
+- 👯 I’m looking to collaborate on Front end Projects.
+- 🤔 I’m looking for help with BeckEnd documentation.
+- 💬 Ask me about ReactJS or any Python stuff.
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![Rimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimonok12&show_icons=true&theme=radical)
+
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimonok12)
+
+
+
