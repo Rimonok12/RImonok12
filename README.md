@@ -8,9 +8,8 @@
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
-![Rimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimonok12&show_icons=true&theme=merko)
+![Rimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimonok12&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimonok12&layout=compact)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimonok12&layout=pie)](https://github.com/Rimonok12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimonok12&layout=donut-vertical)](https://github.com/Rimonok12/github-readme-stats)
