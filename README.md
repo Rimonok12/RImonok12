@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Front end Projects.
 - 🤔 I’m looking for help with BeckEnd documentation.
 - 💬 Ask me about ReactJS or any Javascript stuff.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: I spend almost 12 hours Coding  every day.
 
 
 <a href="https://github.com/Rimonok12/github-readme-stats">
