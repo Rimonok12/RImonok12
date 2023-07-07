@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJS, Tailwind CSS, headlessUI, Cloudinary, JSON web token, GraphQL**
 
-- 👨‍💻 All of my projects are available at [my3dportfolio-r.netlify.app/](my3dportfolio-r.netlify.app/)
+- 👨‍💻 Check my Portfolio At [my3dportfolio-r.netlify.app/](https://my3dportfolio-r.netlify.app/)
 
 - 💬 Ask me about **React, CSS, HTML , Javascript, MERN STACK**
 
