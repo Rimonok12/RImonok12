@@ -1,47 +1,98 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
-<h1 align="center">Hi 👋, I'm Rimon Debnath</h1>
-<h3 align="center">A Full Stack Developer , Love to stay updated & work in new technologies .</h3>
-<!-- <img align="right" alt="coding" width=600 src="https://images.squarespace-cdn.com/"/>
- -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rimonok12&label=Profile%20views&color=0e75b6&style=flat" alt="rimonok12" /> </p>
-
-- 🔭 I’m currently working on **Dribble Clone**
-
-- 🌱 I’m currently learning **NextJS, Tailwind CSS, headlessUI, Cloudinary, JSON web token, GraphQL**
-
-- 👨‍💻 Check my Portfolio At [my3dportfolio-r.netlify.app/](https://my3dportfolio-r.netlify.app/)
-
-- 💬 Ask me about **React, CSS, HTML , Javascript, MERN STACK**
-
-- 📫 How to reach me **rimonok12@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v81rq3NUi-QfT2aQ-ks4Rnkhsjm5SNWW/view?usp=sharing](https://drive.google.com/file/d/1v81rq3NUi-QfT2aQ-ks4Rnkhsjm5SNWW/view?usp=sharing)
-
-- ⚡ Fun fact **I am A musician, I love to play music instruments.**
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimonok12" alt="rimonok12" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rimonok12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rimonok12" height="30" width="40" /></a>
-<a href="https://twitter.com/rimonok12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimonok12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rimon-debnath-61249b1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimon-debnath-61249b1aa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rimonok12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rimonok12" height="30" width="40" /></a>
-<a href="https://kaggle.com/rimonok12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rimonok12" height="30" width="40" /></a>
-<a href="https://fb.com/ri mon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ri mon" height="30" width="40" /></a>
-<a href="https://instagram.com/rimon_d_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimon_d_n" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rimon_d_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rimon_d_n" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rimonok12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rimonok12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rimonok12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rimonok12" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rimonok12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rimonok12" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Rimon+Debnath;Full-Stack+Developer;MERN+%7C+Next.js+%7C+Tailwind+%7C+Cloud;Always+building+something+cool" alt="typing intro" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<!-- Quick CTA buttons -->
+<p align="center">
+  <a href="https://my3dportfolio-r.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-00c4ff?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:rimonok12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rimonok12%40gmail.com-ff5c93?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rimon-debnath-61249b1aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimonok12&show_icons=true&locale=en&layout=compact" alt="rimonok12" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rimonok12&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimonok12&show_icons=true&locale=en" alt="rimonok12" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimonok12&" alt="rimonok12" /></p>
+### 🚀 About Me
+- 🔭 Building **E-commerce (CartKoro)** / my startup  
+- 🌱 Learning: **Next.js, Tailwind, HeadlessUI, Cloudinary, JWT, GraphQL**  
+- 🧰 Favorite stack: **MERN + Next.js + Tailwind + Framer Motion**  
+- 💬 Ask me about **React, CSS, JS, MERN**  
+- 📄 [Resume](https://drive.google.com/file/d/1AYaxih3OaUP-A-rXCngc29q_w-N5A5cl/view?usp=sharing) • 🌐 [Portfolio](https://my3dportfolio-r.netlify.app)
+
+---
+
+### ✨ Featured Projects
+<p align="center">
+  <a href="https://github.com/rimonok12" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble%20Clone-Next.js%20%7C%20Tailwind%20%7C%20Cloudinary-111?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rimonok12" target="_blank">
+    <img src="https://img.shields.io/badge/CartKoro-E--commerce%20MERN-111?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rimonok12" target="_blank">
+    <img src="https://img.shields.io/badge/3D%20Portfolio-Three.js%20%7C%20React-111?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,graphql,tailwind,bootstrap,redux,python,docker,git,github,figma,vercel,aws,webpack" />
+</p>
+
+<!-- Optional: expandables keep the file short but show depth -->
+<details>
+  <summary><b>More Tools</b></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=prisma,postman,eslint,vitest,jest,linux,nginx,firebase,supabase,kubernetes,unity,unreal" />
+  </p>
+</details>
+
+---
+
+### 📈 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rimonok12&show_icons=true&theme=tokyonight" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonok12&layout=compact&theme=tokyonight" height="150" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rimonok12&theme=tokyonight" height="150" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rimonok12&theme=onedark&row=1&column=7" alt="trophies"/>
+</p>
+
+---
+
+### 🤝 Connect
+<p align="center">
+  <a href="https://codepen.io/rimonok12"><img src="https://skillicons.dev/icons?i=codepen" height="36"/></a>
+  <a href="https://twitter.com/rimonok12"><img src="https://skillicons.dev/icons?i=twitter" height="36"/></a>
+  <a href="https://linkedin.com/in/rimon-debnath-61249b1aa"><img src="https://skillicons.dev/icons?i=linkedin" height="36"/></a>
+  <a href="https://instagram.com/rimon_d_n"><img src="https://skillicons.dev/icons?i=instagram" height="36"/></a>
+  <a href="https://www.youtube.com/c/rimon_d_n"><img src="https://skillicons.dev/icons?i=youtube" height="36"/></a>
+  <a href="https://www.leetcode.com/rimonok12"><img src="https://skillicons.dev/icons?i=leetcode" height="36"/></a>
+  <a href="https://www.hackerrank.com/rimonok12"><img src="https://skillicons.dev/icons?i=hackerrank" height="36"/></a>
+</p>
+
+---
+
+### 🎯 Fun Corner
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" alt="fun gif"/> Keep Coding, Keep Smiling!
+</p>
