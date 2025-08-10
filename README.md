@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Rimon Debnath</h1>
 <h3 align="center">A Full Stack Developer , Love to stay updated & work in new technologies .</h3>
-<img align="right" alt="coding" width=600 src="https://images.squarespace-cdn.com/"/>
-
+<!-- <img align="right" alt="coding" width=600 src="https://images.squarespace-cdn.com/"/>
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimonok12&label=Profile%20views&color=0e75b6&style=flat" alt="rimonok12" /> </p>
 
 - 🔭 I’m currently working on **Dribble Clone**
