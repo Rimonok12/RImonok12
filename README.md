@@ -29,7 +29,7 @@
 - 🌱 Learning: **Next.js, Tailwind, HeadlessUI, Cloudinary, JWT, GraphQL**  
 - 🧰 Favorite stack: **MERN + Next.js + Tailwind + Framer Motion**  
 - 💬 Ask me about **React, CSS, JS, MERN**  
-- 📄 [Resume](https://drive.google.com/file/d/1AYaxih3OaUP-A-rXCngc29q_w-N5A5cl/view?usp=sharing) • 🌐 [Portfolio](https://my3dportfolio-r.netlify.app)
+- 📄 [Resume](https://drive.google.com/file/d/1AYaxih3OaUP-A-rXCngc29q_w-N5A5cl/view?usp=sharing) • 🌐 [Portfolio]([https://rdngalaxy.space/]))
 
 ---
 
