@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Experience timeline: Younglabs 2022, Neovatech 2025, fintech company from December 2025, Software Engineer (AI) since May 2026">
+  <defs>
+    <linearGradient id="pl" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="1050" y2="0"><stop offset="0" stop-color="#F1EBE2" stop-opacity=".4"/><stop offset="1" stop-color="#FF5A1F"/></linearGradient>
+    <filter id="g" filterUnits="userSpaceOnUse" x="0" y="120" width="1200" height="60"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>.t { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif; } .m { font-family: 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace; }</style>
+  <rect x=".5" y=".5" width="1199" height="289" rx="18" fill="#111114" stroke="rgba(241,235,226,.10)"/>
+  <line x1="150" y1="150" x2="1050" y2="150" stroke="rgba(241,235,226,.12)" stroke-width="2"/>
+  <line x1="150" y1="150" x2="1050" y2="150" stroke="url(#pl)" stroke-width="3" stroke-linecap="round" filter="url(#g)" stroke-dasharray="900" stroke-dashoffset="900">
+    <animate attributeName="stroke-dashoffset" values="900;900;0;0;900" keyTimes="0;.075;.66;.94;1" dur="8s" repeatCount="indefinite"/>
+  </line>
+  
+  <g>
+    <circle cx="150" cy="150" r="9" fill="#0A0A0B" stroke="rgba(241,235,226,.25)" stroke-width="2"/>
+    <circle cx="150" cy="150" r="6" fill="#F1EBE2" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.075;0.112;.94;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    
+    <text x="150" y="116" text-anchor="middle" class="m" font-size="14" letter-spacing="2" fill="#6E6A64">2022</text>
+    <text x="150" y="196" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#F1EBE2">Full-Stack Engineer</text>
+    <text x="150" y="222" text-anchor="middle" class="t" font-size="15" fill="#A39E96">Younglabs · India</text>
+    <text x="150" y="248" text-anchor="middle" class="m" font-size="13" fill="#6E6A64">Node.js APIs for 500+ users</text>
+  </g>
+  <g>
+    <circle cx="450" cy="150" r="9" fill="#0A0A0B" stroke="rgba(241,235,226,.25)" stroke-width="2"/>
+    <circle cx="450" cy="150" r="6" fill="#F1EBE2" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.270;0.307;.94;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    
+    <text x="450" y="116" text-anchor="middle" class="m" font-size="14" letter-spacing="2" fill="#6E6A64">2025</text>
+    <text x="450" y="196" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#F1EBE2">Cloud &amp; Full-Stack</text>
+    <text x="450" y="222" text-anchor="middle" class="t" font-size="15" fill="#A39E96">Neovatech · Remote</text>
+    <text x="450" y="248" text-anchor="middle" class="m" font-size="13" fill="#6E6A64">AWS at 99.9% uptime</text>
+  </g>
+  <g>
+    <circle cx="750" cy="150" r="9" fill="#0A0A0B" stroke="rgba(241,235,226,.25)" stroke-width="2"/>
+    <circle cx="750" cy="150" r="6" fill="#F1EBE2" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.465;0.503;.94;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    
+    <text x="750" y="116" text-anchor="middle" class="m" font-size="14" letter-spacing="2" fill="#6E6A64">DEC 2025</text>
+    <text x="750" y="196" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#F1EBE2">Frontend Developer</text>
+    <text x="750" y="222" text-anchor="middle" class="t" font-size="15" fill="#A39E96">Fintech · Remote</text>
+    <text x="750" y="248" text-anchor="middle" class="m" font-size="13" fill="#6E6A64">Cardless-EMI platform UI</text>
+  </g>
+  <g>
+    <circle cx="1050" cy="150" r="9" fill="#0A0A0B" stroke="rgba(241,235,226,.25)" stroke-width="2"/>
+    <circle cx="1050" cy="150" r="6" fill="#FF5A1F" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.660;0.698;.94;1" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="150" r="6" fill="none" stroke="#FF5A1F" stroke-width="2"><animate attributeName="r" values="6;20" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="1050" y="116" text-anchor="middle" class="m" font-size="14" letter-spacing="2" fill="#FF5A1F">MAY 2026 → NOW</text>
+    <text x="1050" y="196" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#F1EBE2">Software Engineer (AI)</text>
+    <text x="1050" y="222" text-anchor="middle" class="t" font-size="15" fill="#A39E96">Fintech · Remote</text>
+    <text x="1050" y="248" text-anchor="middle" class="m" font-size="13" fill="#6E6A64">LLM workflows: days → minutes</text>
+  </g>
+</svg>

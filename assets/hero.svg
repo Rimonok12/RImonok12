@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Rimon Debnath, Software Engineer (AI) and full-stack developer">
+  <defs>
+    <radialGradient id="gO" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FF5A1F" stop-opacity=".75"/><stop offset="1" stop-color="#FF5A1F" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gV" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#7C3AED" stop-opacity=".65"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#F1EBE2"/><stop offset=".42" stop-color="#F1EBE2"/>
+      <stop offset=".5" stop-color="#FFB547"/><stop offset=".58" stop-color="#F1EBE2"/><stop offset="1" stop-color="#F1EBE2"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <mask id="gm"><rect width="1200" height="420" fill="url(#fade)"/></mask>
+    
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(241,235,226,0.05)" stroke-width="1"/>
+  </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect width="1200" height="420" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .t { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif; }
+    .m { font-family: 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace; }
+    .drift1 { animation: d1 14s ease-in-out infinite alternate; }
+    .drift2 { animation: d2 18s ease-in-out infinite alternate; }
+    @keyframes d1 { from { transform: translate(0,0); } to { transform: translate(-120px, 60px); } }
+    @keyframes d2 { from { transform: translate(0,0); } to { transform: translate(90px, -70px); } }
+    .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .d1 { animation-delay: .15s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .55s; } .d4 { animation-delay: .9s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    .role { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif; font-size: 27px; fill: #A39E96; opacity: 0; animation: role 9.600000000000001s ease-in-out infinite; }
+    .r0 { animation-delay: 0.0s; }
+    .r1 { animation-delay: 3.2s; }
+    .r2 { animation-delay: 6.4s; }
+    @keyframes role { 0% { opacity: 0; transform: translateY(14px); } 3% { opacity: 1; transform: none; } 28% { opacity: 1; transform: none; } 31% { opacity: 0; transform: translateY(-14px); } 100% { opacity: 0; transform: translateY(-14px); } }
+    .ping { animation: ping 1.8s ease-out infinite; transform-origin: 96px 86px; transform-box: view-box; }
+    @keyframes ping { from { transform: scale(1); opacity: .7; } to { transform: scale(3.2); opacity: 0; } }
+    .spin { transform-origin: 960px 210px; transform-box: view-box; animation: spin 16s linear infinite; }
+    .spin2 { transform-origin: 960px 210px; transform-box: view-box; animation: spin 26s linear infinite reverse; }
+    .spin3 { transform-origin: 960px 210px; transform-box: view-box; animation: spin 40s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .core { transform-origin: 960px 210px; transform-box: view-box; animation: breathe 4s ease-in-out infinite; }
+    @keyframes breathe { 50% { transform: scale(1.06); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="#0A0A0B"/>
+    <g filter="url(#blur)">
+      <circle class="drift1" cx="1040" cy="60" r="230" fill="url(#gO)"/>
+      <circle class="drift2" cx="820" cy="420" r="280" fill="url(#gV)"/>
+    </g>
+    <rect width="1200" height="420" fill="url(#grid)" mask="url(#gm)"/>
+
+    <!-- orbit system -->
+    <g opacity=".95">
+      <circle cx="960" cy="210" r="150" fill="none" stroke="rgba(241,235,226,0.10)" stroke-dasharray="3 7"/>
+      <circle cx="960" cy="210" r="105" fill="none" stroke="rgba(241,235,226,0.10)"/>
+      <circle cx="960" cy="210" r="62" fill="none" stroke="rgba(255,90,31,.25)"/>
+      <g class="spin"><circle cx="1065" cy="210" r="6" fill="#FF5A1F" filter="url(#glow)"/><circle cx="855" cy="210" r="3" fill="#F1EBE2"/></g>
+      <g class="spin2"><circle cx="960" cy="60" r="4.5" fill="#FFB547" filter="url(#glow)"/><circle cx="1066" cy="316" r="3" fill="#F1EBE2" opacity=".7"/></g>
+      <g class="spin3"><circle cx="898" cy="210" r="3.5" fill="#7C3AED" filter="url(#glow)"/></g>
+      <g class="core">
+        <circle cx="960" cy="210" r="40" fill="#16161a" stroke="rgba(241,235,226,.16)"/>
+        <text x="960" y="219" text-anchor="middle" class="m" font-size="24" font-weight="700" fill="#FF5A1F">&lt;/&gt;</text>
+      </g>
+    </g>
+
+    <!-- left column -->
+    <g class="rise">
+      <rect x="72" y="68" width="372" height="36" rx="18" fill="rgba(241,235,226,.04)" stroke="rgba(241,235,226,.14)"/>
+      <circle class="ping" cx="96" cy="86" r="5" fill="#3DDC84"/>
+      <circle cx="96" cy="86" r="5" fill="#3DDC84"/>
+      <text x="112" y="91.5" class="t" font-size="15" fill="#F1EBE2">Available for freelance &amp; remote roles</text>
+    </g>
+    <text x="72" y="158" class="m rise d1" font-size="15" letter-spacing="3.5" fill="#FF5A1F">SOFTWARE ENGINEER · AI &amp; FULL-STACK</text>
+    <text x="68" y="240" class="t rise d2" font-size="86" font-weight="800" letter-spacing="-2.5" fill="url(#name)">Rimon Debnath</text>
+    <g class="rise d3">
+    <text class="role r0" x="72" y="300">I build LLM features that actually ship.</text>
+    <text class="role r1" x="72" y="300">Full-stack apps in Next.js, Node.js and Python.</text>
+    <text class="role r2" x="72" y="300">Secure Supabase backends with row-level security.</text>
+    </g>
+    <g class="rise d4">
+      <line x1="72" y1="342" x2="640" y2="342" stroke="rgba(241,235,226,0.10)"/>
+      <text x="72" y="374" class="m" font-size="14" letter-spacing="1.5" fill="#6E6A64">BANGLADESH · UTC+6</text>
+      <text x="290" y="374" class="m" font-size="14" letter-spacing="1.5" fill="#6E6A64">2+ YEARS SHIPPING</text>
+      <text x="486" y="374" class="m" font-size="14" letter-spacing="1.5" fill="#FF5A1F">NEXT.JS · PYTHON · AWS</text>
+    </g>
+    <rect x=".5" y=".5" width="1199" height="419" rx="24" fill="none" stroke="rgba(241,235,226,.10)"/>
+  </g>
+</svg>
