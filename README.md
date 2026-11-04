@@ -1,4 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
 <a href="https://rimon-portfolio.vercel.app">
   <img src="./assets/hero.svg" width="100%" alt="Rimon Debnath — Software Engineer (AI) and full-stack developer" />
