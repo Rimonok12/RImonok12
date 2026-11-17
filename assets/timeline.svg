@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Experience timeline: Younglabs 2022, Neovatech 2025, fintech company from December 2025, Software Engineer (AI) since May 2026">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Experience timeline: Younglabs 2022, Neovatech 2025, Frontend Developer at a fintech company since December 2025, side projects 2026">
   <defs>
     <linearGradient id="pl" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="1050" y2="0"><stop offset="0" stop-color="#F1EBE2" stop-opacity=".4"/><stop offset="1" stop-color="#FF5A1F"/></linearGradient>
     <filter id="g" filterUnits="userSpaceOnUse" x="0" y="120" width="1200" height="60"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -38,10 +38,10 @@
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.465;0.503;.94;1" dur="8s" repeatCount="indefinite"/>
     </circle>
     
-    <text x="750" y="116" text-anchor="middle" class="m" font-size="14" letter-spacing="2" fill="#6E6A64">DEC 2025</text>
+    <text x="750" y="116" text-anchor="middle" class="m" font-size="14" letter-spacing="2" fill="#FF5A1F">DEC 2025 → NOW</text>
     <text x="750" y="196" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#F1EBE2">Frontend Developer</text>
     <text x="750" y="222" text-anchor="middle" class="t" font-size="15" fill="#A39E96">Fintech · Remote</text>
-    <text x="750" y="248" text-anchor="middle" class="m" font-size="13" fill="#6E6A64">Cardless-EMI platform UI</text>
+    <text x="750" y="248" text-anchor="middle" class="m" font-size="13" fill="#6E6A64">React · Next.js · Tailwind</text>
   </g>
   <g>
     <circle cx="1050" cy="150" r="9" fill="#0A0A0B" stroke="rgba(241,235,226,.25)" stroke-width="2"/>
@@ -49,9 +49,9 @@
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.660;0.698;.94;1" dur="8s" repeatCount="indefinite"/>
     </circle>
     <circle cx="1050" cy="150" r="6" fill="none" stroke="#FF5A1F" stroke-width="2"><animate attributeName="r" values="6;20" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="1050" y="116" text-anchor="middle" class="m" font-size="14" letter-spacing="2" fill="#FF5A1F">MAY 2026 → NOW</text>
-    <text x="1050" y="196" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#F1EBE2">Software Engineer (AI)</text>
-    <text x="1050" y="222" text-anchor="middle" class="t" font-size="15" fill="#A39E96">Fintech · Remote</text>
-    <text x="1050" y="248" text-anchor="middle" class="m" font-size="13" fill="#6E6A64">LLM workflows: days → minutes</text>
+    <text x="1050" y="116" text-anchor="middle" class="m" font-size="14" letter-spacing="2" fill="#6E6A64">2026</text>
+    <text x="1050" y="196" text-anchor="middle" class="t" font-size="20" font-weight="700" fill="#F1EBE2">Side projects</text>
+    <text x="1050" y="222" text-anchor="middle" class="t" font-size="15" fill="#A39E96">Personal · Open source</text>
+    <text x="1050" y="248" text-anchor="middle" class="m" font-size="13" fill="#6E6A64">Aegis · Locus · FitnessPlus</text>
   </g>
 </svg>

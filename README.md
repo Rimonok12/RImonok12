@@ -1,6 +1,6 @@
 
 <a href="https://rimon-portfolio.vercel.app">
-  <img src="./assets/hero.svg" width="100%" alt="Rimon Debnath — Software Engineer (AI) and full-stack developer" />
+  <img src="./assets/hero.svg" width="100%" alt="Rimon Debnath — Frontend Developer" />
 </a>
 
 <p align="center">
@@ -9,8 +9,6 @@
   <a href="mailto:rimonok12@gmail.com"><img src="https://img.shields.io/badge/Email-rimonok12%40gmail.com-F1EBE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" /></a>
 </p>
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~01f4c20e0c87d39498"><img src="https://img.shields.io/badge/Hire_me-Upwork-14A800?style=flat-square&logo=upwork&logoColor=white&labelColor=0A0A0B" alt="Hire me on Upwork" /></a>
-  <a href="https://contra.com/rimonok12_97mpm2u1"><img src="https://img.shields.io/badge/Hire_me-Contra-F1EBE2?style=flat-square&labelColor=0A0A0B" alt="Hire me on Contra" /></a>
   <img src="https://komarev.com/ghpvc/?username=rimonok12&label=Profile%20views&color=FF5A1F&style=flat-square&labelColor=0A0A0B" alt="Profile views" />
 </p>
 
@@ -18,7 +16,7 @@
 
 <h3 align="center"><code>~/whoami</code></h3>
 
-<img src="./assets/terminal.svg" width="100%" alt="whoami: Rimon Debnath, Software Engineer (AI) and full-stack developer with 2+ years. Building LLM workflows for a fintech platform; shipping Aegis and Locus. Skills: Next.js, React, TypeScript, Node.js, Python, FastAPI, Supabase, Postgres, AWS. Available for remote and freelance work." />
+<img src="./assets/terminal.svg" width="100%" alt="whoami: Rimon Debnath, Frontend Developer with 2+ years. Frontend Developer at a fintech company; shipping Aegis and Locus as side projects. Skills: React, Next.js, TypeScript, Node.js, Python, Supabase, Postgres, AWS." />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -63,7 +61,7 @@
 
 <h3 align="center"><code>~/experience</code></h3>
 
-<img src="./assets/timeline.svg" width="100%" alt="Experience: Full-Stack Engineer at Younglabs (2022), Cloud and Full-Stack Engineer at Neovatech (2025), Frontend Developer at a fintech company (Dec 2025), Software Engineer (AI) at the same company since May 2026" />
+<img src="./assets/timeline.svg" width="100%" alt="Experience: Full-Stack Engineer at Younglabs (2022), Cloud and Full-Stack Engineer at Neovatech (2025), Frontend Developer at a fintech company since December 2025." />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
